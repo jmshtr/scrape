@@ -1,0 +1,25 @@
+{
+  "name": "@jmshtr/scrape",
+  "version": "1.0.0",
+  "description": "A website scraper for raw text",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "node scrape.js",
+    "pub": "npm publish"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "keywords": [
+    "website",
+    "scraper",
+    "raw text"
+  ],
+  "author": "James Hunter <jmshtr@proton.me> (https://jmshtr.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmshtr/scrape/issues"
+  },
+  "homepage": "https://github.com/jmshtr/scrape#readme",
+  "type": "module"
+}
